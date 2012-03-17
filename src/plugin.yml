@@ -1,0 +1,6 @@
+name: NoPl
+version: 1.2.1
+author: lordtobi
+description: Prevent those /plugins commands
+
+main: de.lordtobi.nopl.NoPl
